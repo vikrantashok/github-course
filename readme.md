@@ -2,6 +2,5 @@
 
 nice hero
 
-# sad
 
 
