@@ -2,5 +2,9 @@
 
 nice hero
 
+<<<<<<< HEAD
+=======
+# new changes
+>>>>>>> newbranch
 
 
